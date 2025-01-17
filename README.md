@@ -13,7 +13,11 @@ OpenRoad aims to:
 - Support integration with other systems for enhanced interoperability.
 - Empower governments and organizations with transparent traffic solutions.
 
-For more details, read the full project plan in [RoadMap.md](RoadMap.md).
+These are the areas you will need to focus on to make the project a success.
+
+- [Roadmap and Objectives](RoadMap.md)
+- [Scope](docs/Scope.md)
+- [Specifications](docs/Specification.md)
 
 ---
 
@@ -97,6 +101,9 @@ This project is driven by Roy Chanunkha and powered by the support of contributo
 │   │   ├── bug_report.md
 │   │   └── feature_request.md
 |   ├── PULL_REQUEST_TEMPLATE.md
+|__ docs/
+    ├── Scope.md
+    └── Specification.md
 └── src/
     ├── to_be_determined
     └── ...
