@@ -83,7 +83,7 @@ OpenRoad is licensed under the [Apache License 2.0](LICENSE).
 
 ## Acknowledgments
 
-This project is driven by Roy Chanunkha and powered by the support of contributors like you. Together, we can create a groundbreaking solution for road traffic systems.
+This project is driven by Kuyesela Community and powered by the support of contributors like you. Together, we can create a groundbreaking solution for road traffic systems.
 
 ---
 
