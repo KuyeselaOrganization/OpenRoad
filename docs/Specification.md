@@ -82,7 +82,9 @@ Key functions include:
 ### **3.3 Feature: Licensing and Registration**
 
 This feature addresses the end-to-end process of vehicle and driver licensing and registration. It includes the administration of tests for user licenses, online and physical processes for vehicle registration, and biometric authentication to ensure authenticity.
-Licensing: User Licenses to Operate Vehicles
+
+#### Licensing: User Licenses to Operate Vehicles
+
 The licensing workflow ensures that only qualified individuals can legally operate vehicles.
 Functional Requirements:
 
