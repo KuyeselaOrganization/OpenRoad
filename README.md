@@ -17,6 +17,7 @@ These are the areas you will need to focus on to make the project a success.
 
 - [Roadmap and Objectives](RoadMap.md)
 - [Scope](docs/Scope.md)
+- [Architecture](docs/Architecture.md)
 - [Specifications](docs/Specification.md)
 
 ---
@@ -90,21 +91,22 @@ This project is driven by Roy Chanunkha and powered by the support of contributo
 
 ```
 /
-├── README.md
-├── RoadMap.md
-├── CONTRIBUTING.md
-├── CODE_OF_CONDUCT.md
-├── SECURITY.md
-├── LICENSE
+├── [README.md](README.md)
+├── [RoadMap.md](RoadMap.md)
+├── [CONTRIBUTING.md](CONTRIBUTING.md)
+├── [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+├── [SECURITY.md](SECURITY.md)
+├── [LICENSE](LICENSE)
 ├── .github/
 │   ├── ISSUE_TEMPLATE/
 │   │   ├── bug_report.md
 │   │   └── feature_request.md
 |   ├── PULL_REQUEST_TEMPLATE.md
-|__ docs/
-    ├── Scope.md
-    └── Specification.md
-└── src/
-    ├── to_be_determined
-    └── ...
+├── docs/
+|    ├── [Architecture.md](docs/Architecture.md)
+|    ├── [Scope.md](docs/Scope.md)
+|    └── [Specification.md](docs/Specification.md)
+├── src/
+|    ├── to_be_determined
+|    └── ...
 ```
