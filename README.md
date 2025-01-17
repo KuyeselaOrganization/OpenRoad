@@ -13,7 +13,7 @@ OpenRoad aims to:
 - Support integration with other systems for enhanced interoperability.
 - Empower governments and organizations with transparent traffic solutions.
 
-For more details, read the full project plan in [PLAN.md](PLAN.md).
+For more details, read the full project plan in [RoadMap.md](RoadMap.md).
 
 ---
 
@@ -42,7 +42,7 @@ For more details, read the full project plan in [PLAN.md](PLAN.md).
    ```bash
    cd OpenRoad
    ```
-3. Follow the instructions in `PLAN.md` or other project documentation for setting up your environment.
+3. Follow the instructions in `RoadMap.md` or other project documentation for setting up your environment.
 
 ---
 
@@ -70,7 +70,7 @@ OpenRoad is licensed under the [Apache License 2.0](LICENSE).
 
 ## Resources
 
-- **Plan**: [PLAN.md](PLAN.md) (Detailed roadmap and objectives)
+- **Plan**: [RoadMap.md](RoadMap.md) (Detailed roadmap and objectives)
 - **Issues**: [GitHub Issues](https://github.com/KuyeselaOrganization/OpenRoad/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/KuyeselaOrganization/OpenRoad/discussions)
 
@@ -87,7 +87,7 @@ This project is driven by Roy Chanunkha and powered by the support of contributo
 ```
 /
 ├── README.md
-├── PLAN.md
+├── RoadMap.md
 ├── CONTRIBUTING.md
 ├── CODE_OF_CONDUCT.md
 ├── SECURITY.md
