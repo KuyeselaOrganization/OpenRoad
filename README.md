@@ -84,8 +84,6 @@ This project is driven by Roy Chanunkha and powered by the support of contributo
 
 ### File Placement
 
-Save `README.md` at the root of the repository alongside other key files like:
-
 ```
 /
 ├── README.md
