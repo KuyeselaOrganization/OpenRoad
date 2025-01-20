@@ -43,7 +43,7 @@ The OpenRoad system consists of three primary layers:
 
 #### Diagram 1: High-Level System Architecture
 
-_Note: Diagram to be provided by Kyton._
+![High-Level System Architecture](<High level system Architecture design.png>)
 
 ---
 
